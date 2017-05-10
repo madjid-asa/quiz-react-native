@@ -53,5 +53,4 @@ Open react-native-game.xcodeproj in XCode
 </ul>
 
 ## License
-
-voir license.txt
+MIT
