@@ -6,10 +6,10 @@ Ce projet à pour objectif de montrer comment implémenter react-native, react-r
 
 ## Screenshots
 
-<img src="https://github.com/madjid-asa/quiz-react-native/blob/master/screenshots/Start.jpg" width="200">
-<img src="https://github.com/madjid-asa/quiz-react-native/blob/master/screenshots/Choose.jpg" width="200">
-<img src="https://github.com/madjid-asa/quiz-react-native/blob/master/screenshots/Game.jpg" width="200">
-<img src="https://github.com/madjid-asa/quiz-react-native/blob/master/screenshots/Finish.jpg" width="200">
+<img src="https://github.com/madjid-asa/quiz-react-native/blob/master/screenshots/Start.JPG" alt="start" width="200">
+<img src="https://github.com/madjid-asa/quiz-react-native/blob/master/screenshots/Choose.JPG" alt="start" width="200">
+<img src="https://github.com/madjid-asa/quiz-react-native/blob/master/screenshots/Game.JPG" alt="start" width="200">
+<img src="https://github.com/madjid-asa/quiz-react-native/blob/master/screenshots/Finish.JPG" alt="start" width="200">
 
 ## Installation
 
